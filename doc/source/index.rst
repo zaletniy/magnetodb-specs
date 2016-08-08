@@ -1,9 +1,9 @@
 .. magnetodb-specs documentation master file
 
 
-================================
-MagnetoDB Project Specifications
-================================
+=======================================================
+MagnetoDB Project Specifications (no longer maintained)
+=======================================================
 
 Specification template:
 

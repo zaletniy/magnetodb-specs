@@ -2,8 +2,8 @@
 README
 =======
 
-OpenStack MagnetoDB Specifications
-----------------------------------
+OpenStack MagnetoDB Specifications (no longer maintained)
+---------------------------------------------------------
 
 
 This git repository is used to hold approved design specifications for additions
